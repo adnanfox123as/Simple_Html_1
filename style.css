@@ -1,0 +1,67 @@
+
+#header_menu{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+}
+#menuicon{
+    width: 35px;
+    height: 2px;
+    background-color: black;
+    margin: 10px;
+    margin-top: 17px;
+
+}  
+#search{
+    border-radius: 20px;
+    height: 35px;
+    width: 500px;
+    margin: 10px 10px 10px 150px;
+    border: 1px solid rgb(216, 214, 214);
+    filter: drop-shadow(2px 2px 20px rgb(92, 117, 117))
+}
+#SideMenu{
+    width: 20%;
+
+background-color: rgb(255, 255, 255);
+}
+#VideosMenu{
+width: 80%;
+background-color: rgb(255, 255, 255);
+}
+.button{
+    height: 40px;
+    width: 80%;
+    font-size: 20px;
+    margin: 10px 100% 10px 10px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.button:hover{
+    height: 40px;
+    width: 80%;
+    font-size: 20px;
+    margin: 12px 100% 10px 10px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 5px;
+    color: aliceblue;
+    background-color: rgb(179, 177, 177);
+    filter: drop-shadow(2px 2px 20px rgb(187, 135, 135))
+    
+}
+.video{
+    height: 140px;
+    width: 250px;
+    margin: 5px;
+}
+#foter1{
+width: 25%;
+}
+#foter2{
+    width: 25%;
+}
+#foter3{
+    width: 25%;
+}
+#foter4{
+    width: 25%;
+}
